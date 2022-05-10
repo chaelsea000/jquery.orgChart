@@ -1,10 +1,12 @@
 jquery.orgChart
 ===============
 
-jquery plugin for org chart, use a javascript array as input.
-inspired by https://github.com/caprica/jquery-orgchart
+jquery plugin for org chart, use a javascript array as input,
+and also support responsive org chart
 
-[see a demo here](http://www.mit.edu/~wangyu/jquery.orgChart/example.html)
+inspired by https://github.com/caprica/jquery-orgchart
+and 
+inspired by https://github.com/bigeyex/jquery.orgChart
 
 Usage
 -----
